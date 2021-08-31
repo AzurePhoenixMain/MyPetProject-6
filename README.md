@@ -10,7 +10,7 @@ React + Redux
 4) Отобрадение общей стоимости всех выбранных товаров
 
 ## Команды для терминала:
-1) npx json-server --watch src/db.json - запуск json-сервера на http://localhost:3000 (service берет эту url)
+1) npx json-server --watch src/db.json - запуск json-сервера на http://localhost:3000 (service берет этот url)
 2) npm start - команда позволяет запустить сервер на http://localhost:3001
 
 ## Использующиеся NPM:
